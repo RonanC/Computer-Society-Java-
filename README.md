@@ -3,9 +3,12 @@ CompSoc
 
 Overview
 -----
-Computer Society Member Application
-GMIT Sem3 Java Project
-Showcasing Polymorphism and inheritance
+GMIT - Java - Lecturer: Naomi Hurley
+Computer Society Member Application  - December 2013 (Semester 3)
+
+Showcasing:  
+-Polymorphism  
+-Inheritance  
 
 
 About
