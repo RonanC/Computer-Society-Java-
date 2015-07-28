@@ -1,12 +1,12 @@
-CompSoc
+Computer Society
 =======
 
 Overview
 -----
-GMIT - Java - Lecturer: Naomi Hurley
-Computer Society Member Application  - December 2013 (Semester 3)
+GMIT - Java - Lecturer: Naomi Hurley  
+Computer Society Member Application  - December 2013 (Semester 3)  
 
-Showcasing:  
+Showcasing: 
 -Polymorphism  
 -Inheritance  
 
