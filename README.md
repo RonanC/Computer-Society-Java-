@@ -19,6 +19,28 @@ This application lets users view information about the society, fill out a quest
 
 The idea behind it was that during society sign up day, pen and paper sign ups were took too much time to transcript afterwards. So I wanted to have an automated way to sign up members.
 
+Class Hierarchy:
+-----
+
+test runner:
+-ComputerSociety
+
+exception:
+-FeeException
+
+interface:
+-Questionnaire
+
+core classes:
+-Person
+
+--Student
+---PartTimeStudent
+---FullTimeStudent
+
+--Guest
+---Speaker (implements Questionnaire)
+---Lecturer
 
 Tools used
 -----
